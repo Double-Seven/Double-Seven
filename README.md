@@ -1,5 +1,5 @@
 ![](https://media.giphy.com/media/o8elHkOZR56g0/giphy.gif)
-# Projects
+# Game Projects
 ## :game_die: **In Development:**
 
 + Unnamed game - Ubisoft Game Labs Competition 2021 (PC) :soon:
