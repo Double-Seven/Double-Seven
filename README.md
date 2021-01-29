@@ -8,10 +8,10 @@
 ## :video_game: **Completed:**
 
 + Cyperplane2077 - For The Fresh Game Jam, 3D Airport Management Game (PC) [More info](https://github.com/Seibaah/The-Fresh-Game-Jam-2021) :star:
-+ Treasure - 3D HTN AI minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/A4_HTN) :star:
-+ Path - 3D A* path finding simulation (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/A2_CollisionDetection) :star:
-+ Shooting Balloons - 2D minigame for collision handling (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/A3_PathFinding) :star:
-+ SimpleMaze - 3D Random maze generation minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/A1_Maze) :star:
++ Treasure - 3D HTN AI minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Treasure) :star:
++ Path - 3D A* path finding simulation (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Path) :star:
++ Shooting Balloons - 2D minigame for collision handling (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/ShootingBallons) :star:
++ SimpleMaze - 3D Random maze generation minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/SimpleMaze) :star:
 
 <!--
 **Double-Seven/Double-Seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
