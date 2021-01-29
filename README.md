@@ -1,3 +1,4 @@
+![](https://media.giphy.com/media/o8elHkOZR56g0/giphy.gif)
 # Projects
 ## :game_die: **In Development:**
 
