@@ -7,7 +7,7 @@
 
 ## :video_game: **Completed:**
 
-+ Cyperplane2077 - For The Fresh Game Jam2021, 3D Airport Management Game (PC) [More info](https://github.com/Seibaah/The-Fresh-Game-Jam-2021) :star:
++ Cyperplane2077 - For The Fresh Game Jam 2021, 3D Airport Management Game (PC) [More info](https://github.com/Seibaah/The-Fresh-Game-Jam-2021) :star:
 + Treasure - 3D HTN AI minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Treasure) :star:
 + Path - 3D A* path finding simulation (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Path) :star:
 + Shooting Balloons - 2D minigame for collision handling (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/ShootingBallons) :star:
