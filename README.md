@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/o8elHkOZR56g0/giphy.gif)
 # Game Projects
 ## :game_die: **In Development:**
-
+ 
 + name TBD - Ubisoft Game Labs Competition 2021 (PC) :soon:
 + Blade Shooter - 2D roguelike shooting game (PC) [More info](https://github.com/Double-Seven/BladeRunnerGameProject) :star:
 
