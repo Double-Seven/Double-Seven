@@ -1,8 +1,10 @@
 ![](https://media.giphy.com/media/o8elHkOZR56g0/giphy.gif)
 # Game Projects
+
+## :game_die: **Competitions:**
++ Besunder - Ubisoft Game Labs Competition 2021 (McGill's team) [More info](https://github.com/UGL-McGill-2021/lionheart) :star: [Footage] https://www.youtube.com/watch?v=ER53tNl6Wr8
+
 ## :game_die: **In Development:**
- 
-+ name TBD - Ubisoft Game Labs Competition 2021 (PC) :soon:
 + Blade Shooter - 2D roguelike shooting game (PC) [More info](https://github.com/Double-Seven/BladeRunnerGameProject) :star:
 
 ## :video_game: **Completed:**
