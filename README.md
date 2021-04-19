@@ -2,15 +2,16 @@
 # Game Projects
 
 ## :game_die: **Competitions:**
-+ Besunder - Ubisoft Game Labs Competition 2021 (McGill's team) [More info](https://github.com/UGL-McGill-2021/lionheart) :star: 
-             [Footage] https://www.youtube.com/watch?v=ER53tNl6Wr8
++ Besunder - Ubisoft Game Labs Competition 2021 (McGill's team) [More info](https://github.com/UGL-McGill-2021/lionheart) :star:   
+               [Itchio page](https://coeur-de-lion.itch.io/besunder) :star: 
 
 ## :game_die: **In Development:**
 + Blade Shooter - 2D roguelike shooting game (PC) [More info](https://github.com/Double-Seven/BladeRunnerGameProject) :star:
 
 ## :video_game: **Completed:**
 
-+ Cyperplane2077 - For The Fresh Game Jam 2021, 3D Airport Management Game (PC) [More info](https://github.com/Seibaah/The-Fresh-Game-Jam-2021) :star:
++ Cyperplane2077 - For The Fresh Game Jam 2021, 3D Airport Management Game (PC) [More info](https://github.com/Seibaah/The-Fresh-Game-Jam-2021) :star:  
+  [Itchio page](https://coeur-de-lion.itch.io/cyberplane2077) :star: 
 + Treasure - 3D HTN AI minigame (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Treasure) :star:
 + Path - 3D A* path finding simulation (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/Path) :star:
 + Shooting Balloons - 2D minigame for collision handling (PC) [More info](https://github.com/Double-Seven/Game_algorithm_implementation/tree/main/ShootingBallons) :star:
